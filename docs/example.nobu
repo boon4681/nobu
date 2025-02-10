@@ -1,0 +1,16 @@
+
+
+@start
+fun main(){
+    print("HI")
+    let a = (0,0,0)
+    let b = (1,0,0)
+
+    let c = a + b
+    if (a.y == 0) {
+        print("YO")
+    }
+
+    loop {}
+}
+
